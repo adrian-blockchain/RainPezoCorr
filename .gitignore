@@ -2,3 +2,4 @@ test
 logs
 output
 .gitignore
+.idea
